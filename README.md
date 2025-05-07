@@ -1,6 +1,6 @@
 ## Hey! Meu nome é Felipe, como vai você? 👨‍💻
 
-- Analista de Suporte
+- Analista de Qualidade de Software
 - Estudante de Análise e Desenvolvimento de Sistemas 👨‍🎓
 - Bacharel em Direito ⚖
 
